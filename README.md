@@ -7,6 +7,11 @@ Tools:
 * Google Collab
 
 Algorithms:
-* DecisionTreeClassifier
-* RandomForest (to be uploaded)
-* GradientBoosting (to be uploaded)
+
+* **DecisionTreeClassifier**
+  * KFold Cross-Validation with different criterion (gini, entropy)
+  * Decision Tree Visualization (GraphViz)
+  * Pre- and Post-Pruning  
+ 
+* **RandomForest** (to be uploaded)
+* **GradientBoosting** (to be uploaded)
