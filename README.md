@@ -3,12 +3,12 @@
 A repo for playing around with various ML models and concepts.
 
 Tools:
-* Python *(Pandas, Numpy, Seaborn, GraphViz, Scikit-learn)*
+* Python
 * Google Collab
 
 Algorithms:
 
-* **DecisionTreeClassifier**
+* **DecisionTreeClassifier** *(Pandas, Numpy, Seaborn, GraphViz, Scikit-learn)*
   * Exploratory Data Analysis *(correlation tables, heatmaps, pairplots)* 
   * KFold Cross-Validation with different criterion *(gini, entropy)*
   * Decision Tree Visualization *(GraphViz)*
