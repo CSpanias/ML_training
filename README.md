@@ -3,7 +3,7 @@
 A repo for playing around with various ML models and concepts.
 
 Tools:
-* Python (Pandas, Numpy, Seaborn, GraphViz, Scikit-learn)
+* Python *(Pandas, Numpy, Seaborn, GraphViz, Scikit-learn)*
 * Google Collab
 
 Algorithms:
