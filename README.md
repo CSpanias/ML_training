@@ -1,4 +1,4 @@
-# Machine Training
+# Machine Learning Training
 
 A repo for playing around with various ML models and concepts.
 
